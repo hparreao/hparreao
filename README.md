@@ -33,7 +33,6 @@ I'm also interested in art and entertainment media, such as games, movies, TV sh
 - 🤖 Deep Learning
 - 🧠 Neural Networks
 - 🐍 Python
-- 🦾 SQL | Docker | PyTorch | TensorFlow | Keras
 - 👁️ Computer Vision
 - 🔠 Natural Language Processing
 - ⏮️ Retrieval-Augmented Generation
@@ -42,4 +41,20 @@ I'm also interested in art and entertainment media, such as games, movies, TV sh
 - ☁️ Cloud
 - 🎹 Game Audio
 - 📚 Books
+  
+## 🛠️ Development Tools
+
+- <img height="20" src="https://docs.anaconda.com/_static/Anaconda_Icon.png"> Anaconda
+- <img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"> Jupyter Notebook
+- <img height="20" src="https://colab.research.google.com/img/colab_favicon_256px.png"> Google Colab
+- <img height="20" src="https://analisemacro.com.br/wp-content/uploads/2024/06/ai-studio-icon.png"> Google AI Studio
+- <img height="20" src="https://framerusercontent.com/images/oruOamD1MMsHtMc2MwEgZZe16LU.jpg"> Cursor
+- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"> PyCharm
+- <img height="20" src="https://icon.icepanel.io/Technology/svg/Xcode.svg"> Xcode
+- <img height="20" src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> git
+- <img height="20" src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png"> Terraform
+- <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"> Docker
+- <img height="20" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png">  PyTorch
+- <img height="20" src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png"> TensorFlow
+- <img height="20" src="https://static-00.iconduck.com/assets.00/keras-icon-512x512-q43erbjp.png"> Keras
 
