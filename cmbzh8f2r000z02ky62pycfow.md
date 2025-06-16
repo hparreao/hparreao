@@ -1,11 +1,11 @@
 ---
 title: "Como construir um RAG que processa PDFs e responde perguntas em tempo real por voz"
 seoTitle: "RAG que processa PDFs e responde perguntas em tempo real por voz"
-seoDescription: "RAG Voice Assistant  é um sistema que combina RAG com capacidades de processamento de voz para criar uma experiência de interação com documentos "
+seoDescription: "RAG Voice Assistant  é um sistema que combina RAG com capacidades de processamento de voz para criar uma experiência de interação com documentos"
 datePublished: Mon Jun 16 2025 19:17:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmbzh8f2r000z02ky62pycfow
 slug: como-construir-um-rag-que-processa-pdfs-e-responde-perguntas-em-tempo-real-por-voz-91e73fd9175e
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750101024691/4b2a530f-934d-4b8d-892f-1884808044b7.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750105115461/9aa3ba6e-2111-4e8b-83a4-920ed3ab299f.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1750101384589/3bbb4f25-4499-4602-8b0d-4d0f4f301515.avif
 tags: text-to-speech, speech-to-text, embedding, retrieval-augmented-generation, agentic-ai
 
