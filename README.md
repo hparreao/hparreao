@@ -12,11 +12,6 @@
 
 I'm Hugo Parreão.
 
-Currently studying for a Master's degree in Artificial Intelligence Engineering, in parallel to my Bachelor’s Degree, through a Dual Degree Program. In addition, I am enhancing my experience in several areas, including Gen AI, LLMOps/AIOps, Software Engineering, Multi-agent Systems, Natural Language Processing (NLP), Software Quality, Data Science and Machine/Deep Learning, through online teaching platforms such as DeepLearning.AI, Coursera, Alura and Udemy.
-
-I am motivated by my passion for new technologies and participating in innovative projects. I am adept at planning, organizing and working with data to inform decisions and solve problems, always maintaining a commitment to responsible and ethical AI in data. Experience in projects using Deep Learning, AI, NLP and Multi-Agent Systems.
-
-I'm also interested in art and entertainment media, such as games, movies, TV shows, music, comics and other elements of geek culture.
 
 ## 🎓 Formation
 
@@ -24,7 +19,7 @@ I'm also interested in art and entertainment media, such as games, movies, TV sh
 - <img height="20" src="https://media.licdn.com/dms/image/v2/D4D0BAQFQNwcf2qpQDA/company-logo_200_200/company-logo_200_200/0/1695711589884/isep_logo?e=2147483647&v=beta&t=UEs0WWIq9j155CBnMED0wacMnr5vHu2GFdXpP9NwOTE"> Msc Artificial Intelligence Student ISEP
 
 
-## 🤍 Things I am passionate about
+## 🤍 Key Areas of Expertise and Interest
 
 - 💻 Technology in General
 - 👨🏻‍💻 AI Engineering | Gen AI | Ethical AI
@@ -44,14 +39,14 @@ I'm also interested in art and entertainment media, such as games, movies, TV sh
   
 ## 🛠️ Development Tools
 
-- <img height="20" src="https://docs.anaconda.com/_static/Anaconda_Icon.png"> Anaconda
-- <img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"> Jupyter Notebook
+- <img height="20" src="https://img.icons8.com/fluent/512/anaconda--v2.png"> Anaconda
+- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1920px-Jupyter_logo.svg.png"> Jupyter Notebook
 - <img height="20" src="https://colab.research.google.com/img/colab_favicon_256px.png"> Google Colab
 - <img height="20" src="https://analisemacro.com.br/wp-content/uploads/2024/06/ai-studio-icon.png"> Google AI Studio
 - <img height="20" src="https://framerusercontent.com/images/oruOamD1MMsHtMc2MwEgZZe16LU.jpg"> Cursor
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"> PyCharm
 - <img height="20" src="https://icon.icepanel.io/Technology/svg/Xcode.svg"> Xcode
-- <img height="20" src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> git
+- <img height="20" src="https://img.icons8.com/color/512/git.png"> git
 - <img height="20" src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png"> Terraform
 - <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"> Docker
 - <img height="20" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png">  PyTorch
