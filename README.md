@@ -3,6 +3,7 @@
     <a href = "https://parreaoai.hashnode.dev/"><img src="https://img.shields.io/badge/-Blog-%23EA4335?style=for-the-badge&logo=ghost&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/hugo-parreao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/parreao.ai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
+    <a href="mailto:hugoparreao@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 </div>
 
 
