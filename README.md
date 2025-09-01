@@ -20,10 +20,10 @@ My professional journey focuses on developing advanced Machine Learning/Deep Lea
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)]
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)
-![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)(#)
+![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
 
 ## 🤖 AI Agents & RAG Systems
 
