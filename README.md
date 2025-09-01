@@ -52,7 +52,7 @@ My professional journey focuses on developing advanced Machine Learning/Deep Lea
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 
-**Key Libraries:** LangChain • SQLAlchemy • Polars • NLTK • spaCy • Docling (OCR)
+**Key Libraries:** LangChain • SQLAlchemy • Polars • NLTK • spaCy • Docling
 
 ## 🗄️ Databases & Storage
 
