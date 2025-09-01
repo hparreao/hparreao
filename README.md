@@ -5,6 +5,9 @@
     <a href="mailto:hugoparreao@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 </div>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hparreao&layout=compact)
+
 ## Hi there 👋
 
 I'm **Hugo Parreão**, an AI Engineer passionate about pushing the boundaries of artificial intelligence through innovative solutions and responsible AI development.
