@@ -5,11 +5,6 @@
     <a href="mailto:hugoparreao@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 </div>
 
-<div align="right">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hparreao&layout=compact)
- 
-</div>
 
 ## Hi there 👋
 
